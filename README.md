@@ -3,4 +3,4 @@
 
 [2. Unit Converter](https://github.com/Mehedi-Hasan-4958/unitConverter.git)
 
-[3. Unit Converter](https://github.com/Mehedi-Hasan-4958/recipeApp.git)
+[3. Recipes](https://github.com/Mehedi-Hasan-4958/recipeApp.git)
